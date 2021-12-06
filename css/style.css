@@ -800,7 +800,7 @@ transition: all 0.2s;
 	}
 }
 
-@media (max-width:375px){
+@media (max-width:487px){
 	.footerr{
 		display:none;
 	}

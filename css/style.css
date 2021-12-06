@@ -799,3 +799,14 @@ transition: all 0.2s;
 		margin-bottom:40px;
 	}
 }
+
+@media (max-width:375px){
+	.footerr{
+		display:none;
+	}
+	.navbar-custom .navbar-nav>li>a {
+		color: #1d1d1d;
+		font-size: 14px;
+		text-transform: uppercase;
+	}
+}

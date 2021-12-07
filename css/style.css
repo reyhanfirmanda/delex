@@ -810,3 +810,11 @@ transition: all 0.2s;
 		text-transform: uppercase;
 	}
 }
+
+.social-icons{
+	padding-left: 6px;
+	padding-right: 6px;
+}
+.twitter {
+	padding-top: -2px;
+}

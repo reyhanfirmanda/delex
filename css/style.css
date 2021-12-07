@@ -19,7 +19,7 @@
 	11) Responsive
 	12) Back-to-top
 */
-
+@import url('https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Handlee&family=Signika+Negative:wght@300;400;500;600;700&display=swap');
 
 
 
@@ -816,5 +816,5 @@ transition: all 0.2s;
 	padding-right: 6px;
 }
 .twitter {
-	padding-top: -2px;
+	padding-top: 0px;
 }
